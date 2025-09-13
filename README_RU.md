@@ -2,6 +2,7 @@
 <img src="NekoLogo.png" width="150" height="150">
 
 # Neko
+<a href="README.md">ENGLISH</a>
 Библиотека на Python для упрощения работы с нейросетями
 
 # Что это?
