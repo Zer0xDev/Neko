@@ -20,7 +20,7 @@ This library was created to simplify working with AI
 Clone this repository, then run 
 
 ```bash
-pip install -e
+pip install -e .
 ```
 
 # Example
