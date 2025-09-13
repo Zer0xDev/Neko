@@ -17,9 +17,7 @@ This library was created to simplify working with AI
 
 # Installation
 
-```bash
-test
-```
+Clone this repository, then run 'pip install -e .'
 
 # Example
 
