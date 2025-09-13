@@ -6,7 +6,7 @@ Python Library for Easy Work with AI
 
 # What is this?
 
-This library was created to simplify working with neural networks.
+This library was created to simplify working with AI
 
 # Setup
 
