@@ -17,7 +17,11 @@ This library was created to simplify working with AI
 
 # Installation
 
-Clone this repository, then run 'pip install -e .'
+Clone this repository, then run 
+
+```bash
+pip install -e
+```
 
 # Example
 
