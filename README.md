@@ -1,6 +1,8 @@
 
 <img src="NekoLogo.png" width="150" height="150">
 
+<a href="README_RU.md>RUSSIAN</a>
+
 # Neko
 Python Library for Easy Work with AI
 
