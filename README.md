@@ -1,6 +1,5 @@
 
 <img src="NekoLogo.png" width="150" height="150">
-<a href="NekoLogo.png">t</a>
 
 # Neko
 Python Library for Easy Work with AI
